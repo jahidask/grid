@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/autumn-season-leafs-plant-scene-generative-ai_188544-7971.jpg?size=626&ext=jpg&ga=GA1.1.1942024094.1708182407&semt=ais);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+header{
+    background-color: pink;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+
+}
+div img{
+    height: 100px;
+}
+.box{
+    display: grid;
+    padding-left: 300px;
+    padding-right: 200px;
+    grid-template-columns: auto auto auto auto auto;
+    gap:10px;
+}
+.bird{
+    display: grid;
+    padding-left: 200px;
+    padding-right: 200px;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap:10px;
+}
+
+
+
